@@ -62,7 +62,7 @@ header p {
   }
 }
 .project-card:hover {
-  transform: translateY(-10px);
+  transform: translateY(-10px) scale(1.05);
   box-shadow: 0 15px 30px rgba(0,0,0,0.7);
 }
 .project-card img {
@@ -111,3 +111,4 @@ footer {
     padding: 30px 15px;
   }
 }
+
