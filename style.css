@@ -62,7 +62,7 @@ header p {
 }
 .project-card:hover {
   transform: translateY(-10px) scale(1.05);
-  box-shadow: 0 15px 30px rgba(255, 255, 255, 0.7);
+  box-shadow: 0 5px 10px rgba(255, 255, 255, 0.7);
 }
 .project-card img {
   width: 100%;
@@ -115,4 +115,5 @@ footer {
   text-align: center;
   margin: 50px;
 }
+
 
